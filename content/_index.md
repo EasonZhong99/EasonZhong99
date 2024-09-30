@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        During my PhD, I focus on the security of large language models, specifically researching efficient methods for unlearning. This not only makes the models more practical for real-world use but also addresses privacy, copyright, and ethical concerns.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        During my master’s period, I explored the intersection of machine learning and information security, drawing on my undergraduate research background in this area. I worked on employing robust learning methods to defend against poisoning attacks in federated learning while utilizing cryptographic techniques to protect privacy.
         
         Please reach out to collaborate 😃
     design:
